@@ -1,2 +1,4 @@
 # Documentation
-Holds public documents for the Chicago Blockchain Center
+Welcome to the Chicago Blockchain Center.
+
+This repository holds public documents for the Chicago Blockchain Center
